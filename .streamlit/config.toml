@@ -1,0 +1,21 @@
+[browser]
+serverAddress = "localhost"
+
+[client]
+showErrorDetails = false
+
+[theme]
+base="dark"
+
+[ui]
+headingFont = "sans-serif"
+bodyFont = "sans-serif"
+
+[pages]
+page_title = "Garmin Activity Dashboard"
+
+[pages.app]
+name = "Overview"
+
+[pages.detailed_metrics]
+name = "Detailed Metrics"
